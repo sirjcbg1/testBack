@@ -1,0 +1,252 @@
+﻿++Solución "Onion" ‎(5 de 5 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:Onion.sln
+++Presentation
+i:{00000000-0000-0000-0000-000000000000}:Presentation
+++WebApi
+i:{a4cb6d46-7a68-4856-a27b-c4d7d854d66f}:WebApi
+++Connected Services 
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>745
+++Dependencias
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>744
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:>455
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:>454
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:>403
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>452
+++Properties
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\properties\
+++Controllers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\controllers\
+++Extensions
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\extensions\
+++AppExtensions.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\extensions\appextensions.cs
+++Middlewares
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\middlewares\
+++ErrorHandlerMiddleware.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\middlewares\errorhandlermiddleware.cs
+++appsettings.json
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\appsettings.json
+++Program.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\program.cs
+++WeatherForecast.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>746
+++Analizadores
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:analizadores
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:analizadores
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:analizadores
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:analizadores
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:analizadores
+++Marcos de trabajo
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:marcos de trabajo
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:marcos de trabajo
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:marcos de trabajo
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:marcos de trabajo
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:marcos de trabajo
+++Paquetes
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:paquetes
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:paquetes
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:paquetes
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:paquetes
+++Proyectos
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:proyectos
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:proyectos
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:proyectos
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:proyectos
+++launchSettings.json
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\properties\launchsettings.json
+++WeatherForecastController.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\controllers\weatherforecastcontroller.cs
+++appsettings.Development.json
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\microsoft.netcore.app
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\microsoft.netcore.app
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\users\personal\source\repos\onion\shared\microsoft.netcore.app
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\users\personal\source\repos\onion\domain\microsoft.netcore.app
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\microsoft.netcore.app
+++MediatR (10.0.1)
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>765
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>766
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>764
+++Application
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\application\bin\debug\net6.0\application.dll
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\application\bin\debug\net6.0\application.dll
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\users\personal\source\repos\onion\application\bin\debug\net6.0\application.dll
+i:{5fe0f426-c596-4fae-92de-b6d8b0d9a225}:Application
+++Persistence
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\persistence\bin\debug\net6.0\persistence.dll
+i:{65dd89b1-a943-4025-81d3-d1f486e17398}:Persistence
+++Shared
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\shared\bin\debug\net6.0\shared.dll
+i:{65dd89b1-a943-4025-81d3-d1f486e17398}:Shared
+++Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++Configuration
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\configuration\
+++Contexts
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\contexts\
+++Migrations
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\migrations\
+++Repository
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\repository\
+++ServiceExtensions.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\serviceextensions.cs
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\users\personal\source\repos\onion\shared\serviceextensions.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\extensions\serviceextensions.cs
+++ClienteConfig.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\configuration\clienteconfig.cs
+++ApplicationDbContext.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\contexts\applicationdbcontext.cs
+++20220129021918_FirstMigration.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\migrations\20220129021918_firstmigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\migrations\applicationdbcontextmodelsnapshot.cs
+++MyRepositoryAsync.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\repository\myrepositoryasync.cs
+++Ardalis.Specification.EntityFrameworkCore (6.0.1)
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:>793
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:>790
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:>791
+++Microsoft.Extensions.Options.ConfigurationExtensions (6.0.0)
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:>792
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:>778
+++Domain
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\domain\bin\debug\net6.0\domain.dll
+i:{5fe0f426-c596-4fae-92de-b6d8b0d9a225}:Domain
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\domain\bin\debug\net6.0\domain.dll
+++20220129021918_FirstMigration.Designer.cs
+i:{a15b73b0-ff45-498f-a3ac-e3fe8c5dfbe0}:c:\users\personal\source\repos\onion\persistence\migrations\20220129021918_firstmigration.designer.cs
+++Services
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\users\personal\source\repos\onion\shared\services\
+++DateTimeService.cs
+i:{971115c7-bd7f-458a-97cf-fd45b19804ce}:c:\users\personal\source\repos\onion\shared\services\datetimeservice.cs
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+++Common
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\users\personal\source\repos\onion\domain\common\
+++Entities
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\users\personal\source\repos\onion\domain\entities\
+++Cliente.cs
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\users\personal\source\repos\onion\domain\entities\cliente.cs
+++AuditableBaseEntity.cs
+i:{fd0171cd-8238-4c19-a06b-00302e0feddb}:c:\users\personal\source\repos\onion\domain\common\auditablebaseentity.cs
+++Behaviors
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\behaviors\
+++DTOs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\dtos\
+++Exceptions
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\exceptions\
+++Features
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\
+++Filters
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\filters\
+++Interfaces
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\interfaces\
+++Mappins
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\mappins\
+++Wrappers
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\wrappers\
+++ServicesExtensions.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\servicesextensions.cs
+++ValidationBehavior.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\behaviors\validationbehavior.cs
+++ApiException.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\exceptions\apiexception.cs
+++ValidationException.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\exceptions\validationexception.cs
+++Cliente
+++IDateTimeService.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\interfaces\idatetimeservice.cs
+++IRepositoryAsync.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\interfaces\irepositoryasync.cs
+++Response.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\wrappers\response.cs
+++Ardalis.Specification (6.0.1)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>813
+++AutoMapper (11.0.0)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>814
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>811
+++FluentValidation (10.3.6)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>812
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>810
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:>815
+++Commands
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\
+++Queries
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\queries\
+++Create
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\create\
+++Delete
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\delete\
+++Update
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\update\
+++GetAll
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\queries\getall\
+++GetById
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\queries\getbyid\
+++CreateClienteCommand.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\create\createclientecommand.cs
+++CreateClienteCommandValidator.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\commands\create\createclientecommandvalidator.cs
+++Clientes
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\features\clientes\
+++GeneralProfile.cs
+i:{bf8c31be-a726-4cac-b7d2-8f2d43da077a}:c:\users\personal\source\repos\onion\application\mappins\generalprofile.cs
+++NewFolder
+++v1
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\controllers\v1\
+++BaseApiController.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\controllers\baseapicontroller.cs
+++ClientesController.cs
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:c:\users\personal\source\repos\onion\webapi\controllers\v1\clientescontroller.cs
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{d4004564-fa30-4214-b50f-040e7cfb5484}:>852

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Behaviors",
+    "\\Application\\Exceptions",
+    "\\Domain",
+    "\\Domain\\Common",
+    "\\Domain\\Entities"
+  ],
+  "SelectedNode": "\\Domain\\Entities\\Ingreso.cs",
+  "PreviewInSolutionExplorer": false
+}
